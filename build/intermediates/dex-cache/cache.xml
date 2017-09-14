@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/dino/.android/build-cache/e976fbe767bc074de81e88b613c3999b725b0e8a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/dino/Downloads/ProjetResto/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1ced483d71b3659c481e9439ea19071e1cbc8b18/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dino/.android/build-cache/f1a91bfd8e75c2f15deb11b6d2b18ce871449d13/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/dino/Downloads/ProjetResto/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1fd4dea73bb0fa5720044639699529b62f184b07/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dino/Downloads/ProjetResto/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/dino/Downloads/ProjetResto/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d03ba197e68c669237ad91b3bc83ddd92b1304d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dino/.android/build-cache/dc0674ff8539585295c4c9f0c8a1604a407f12f3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/dino/Downloads/ProjetResto/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_97d826937f2d485019e704dfaf3f203b6e6fe7cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dino/.android/build-cache/6acf87eb36a7a2cbb168a4eafc599aff046a0751/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/dino/Downloads/ProjetResto/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_871d6d801cc093ca4762ca1d256ac0c40ef37f0a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dino/.android/build-cache/427b6a04d1d58ec99fa6a4a0aea6ef8a4dfe2b0d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/dino/Downloads/ProjetResto/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e47a9a5a16a9e52eab1f29b4d6074b763c232422/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dino/.android/build-cache/0cf4e7e8badd8c5c641b12788dc4959bdade16c2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/dino/Downloads/ProjetResto/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_25cb02864f3a1a73dfc4c8d6da1ee7830e2cb2f4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dino/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/dino/Downloads/ProjetResto/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_b010e061f24713fe07d87d0cec5151cc94c584b3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dino/.android/build-cache/72f794bee8333cf9674564f90986b687d28e0a43/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/dino/Downloads/ProjetResto/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bf29f0ab67b8258a5d9dba3bb5a6e737bd332c71/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dino/.android/build-cache/eece602e8f42c497837ccfa6c1e101b3ce9420f7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/dino/Downloads/ProjetResto/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7b0739a4c7fc74d04d8e93d0e581da8fdd5787a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dino/Downloads/ProjetResto/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1962e6eedcd7329eb6743d6240807947b0dcd09f">
+        <dex dex="/Users/dino/Downloads/ProjetResto/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c21dd1b82103f64bf6f37707232f7bb663a00064/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dino/.android/build-cache/3dc66a459657682e6987b45287121c952b1e4d62/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/dino/Downloads/ProjetResto/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e4e8333e400ba11062fdf8206aaa237223ce1a95/classes.dex" />
+    </item>
+
+</items>

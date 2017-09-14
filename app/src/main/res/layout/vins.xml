@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/vin_tom_express"
+        android:id="@+id/imageView2"
+        android:layout_marginBottom="556dp"
+        android:layout_alignBottom="@+id/maListe"
+        android:layout_alignParentStart="true" />
+
+    <ListView
+        android:id="@+id/maListe"
+        android:layout_width="wrap_content"
+        android:layout_height="478dp"
+        android:layout_marginTop="259dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignStart="@+id/valider"
+        android:layout_marginStart="29dp" />
+
+    <Button
+        android:text="Valider"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        android:id="@+id/valider"
+        android:layout_marginEnd="55dp"
+        android:layout_marginBottom="18dp"
+        android:layout_alignParentBottom="true"
+        android:layout_toStartOf="@+id/reset" />
+
+    <Button
+        android:text="Reset"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        android:id="@+id/reset"
+        android:layout_marginEnd="199dp"
+        android:layout_alignBaseline="@+id/valider"
+        android:layout_alignBottom="@+id/valider"
+        android:layout_alignParentEnd="true" />
+
+
+
+</RelativeLayout>

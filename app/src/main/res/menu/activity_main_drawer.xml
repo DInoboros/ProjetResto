@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:title="Accueil"
+        android:id="@+id/accueil"/>
+    <item android:title="Formules"
+        android:id="@+id/formules"/>
+    <item android:title="Vins"
+        android:id="@+id/vins" />
+    <item android:title="Addition"
+        android:id="@+id/addition" />
+    <item android:title="Quitter"
+        android:id="@+id/quitter" />
+
+</menu>
